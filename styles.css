@@ -69,3 +69,9 @@ p{
         width: 50vw;
     }
 }
+
+@media (max-width: 500px){
+    .card,.button{
+        width: 70vw;
+    }
+}
